@@ -55,15 +55,15 @@ The main requirement of the test task was to follow a component-based approach, 
 
 ## Projects I've worked on
 
-- 3D Games -Gaming Website
-- Khebra -Business Website
-- Summary City -Ecommerce Website & Admin Panel
-- Yoogi -WebApp
-- Sinarmas -Game Admin Panel
-- OHE ( Oriental Hope Education ) -Education Website
-- Right step -Property Website
-- Kohsar Education -Business Website
-- Flowink -Business Website
-- Feminord -Ecommerce Website
-- Jenngo -Job Posting Website & Admin Panel
-- Tagmarshal -Golf course WebApp
+- 3D Games -Gaming Website [ Vue3 , Bootstrap5 , Vuex ,Options-api, Node]
+- Khebra -Business Website [ Vue3 , Tailwindcss , Vuex ,Options-api, Node]
+- Summary City -Ecommerce Website & Admin Panel [ Vue3 , Bootstrap5 , Vuex ,Options-api, Node]
+- Yoogi -WebApp [ Vue3 , Primevue , Vuex ,Composition-api, Node]
+- Sinarmas -Game Admin Panel [ Vue3 , Bootstrap5 , Vuex ,Options-api, Node]
+- OHE ( Oriental Hope Education ) -Education Website [ Vue3 , Vuetify , Vuex ,Options-api, Node]
+- Right step -Property Website [ Nuxt , Bootstrap5 , Vuex ,Options-api, Node]
+- Kohsar Education -Business Website [ Vue3 , Tailwind css , Vuex ,Options-api, Node]
+- Flowink -Business Website [ Vue3 , Tailwind css , Vuex ,Options-api, Node]
+- Feminord -Ecommerce Website [ Nuxt , BulmaCss , Pinia ,Composition-api, Node]
+- Jenngo -Job Posting Website & Admin Panel [ Vue3 , Tailwind css , Vuex ,Composition-api, Laravel]
+- Tagmarshal -Golf course WebApp [ Nuxt , Element UI , Vuex ,Options-api, Laravel ]
